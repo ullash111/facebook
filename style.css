@@ -1,0 +1,126 @@
+*{
+	margin: 0px;
+}
+.container{
+	width:1170px;
+	height:900px;
+	margin: 0 auto;
+	background-color: #E9EBEE;
+}
+.header{
+	height: 90px;
+	background-color:#47639E;
+}
+.face{
+	font-size:45px;
+	color: white;
+	padding-top: 20px;
+	padding-left: 200px;
+}
+.login-form {
+    width: 500px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -45px;
+}
+.email{
+	float: left;
+	margin-bottom: 0px;
+	padding-bottom: 40px;
+}
+label{
+	color: white;
+}
+input{
+ margin: 5px 10px 0 0;
+ }
+.password{
+ 	float: right;
+ 	margin-top: -19px;
+	padding-bottom: 40px;
+}
+label{
+ 	color:white;
+ }
+input{
+ margin: 5px 10px 0 0;
+ }
+.login-button{
+ 	float: right;
+ 	color: white;
+ 	background-color: #3B59C5;
+ 	margin-right: -55px;
+ 	margin-top: -25px;
+ 	padding: 3px;
+ }
+.left-side{
+	width: 585px;
+ 	height: 365px;
+ 	float: left;
+}
+.recent{
+	font-size:35px;
+	padding-top: 30px;
+	padding-left: 130px;
+	padding-bottom: 20px;
+}
+.pic{
+	padding-left: 160px;
+}
+.name{
+	padding-left:200px;
+}
+.right-side{
+	width: 585px;
+	height: 365px;
+	float: right;
+	
+}
+.account{
+	font-family: arial;
+	padding-top: 30px; 
+	padding-bottom: 10px;
+}
+.details{
+	margin-bottom:5px 10px;
+}
+.signup-name{
+	border-radius: 3px;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.signup-email{
+	width:524px;
+	font-size: 20px;
+	border-radius: 3px;
+	margin-bottom: 10px;
+}
+.signup-password{
+	width:524px;
+	font-size: 20px;
+	border-radius: 3px;
+	margin-bottom: 10px;
+
+}
+select{
+	height:30px;
+	width:70px;
+	margin-bottom: 10px;
+}
+.gender{
+	color:black;
+}
+.agreement{
+	color:grey;
+	font-size: 12px;
+	padding-top: 20px;
+}
+.create-acc{
+	color: white;
+	width: 180px;
+	height:50px;
+	border-radius: 8px;
+	font-size: 18px;
+	background-color: #4ba614;
+	margin-top: 20px;
+}
